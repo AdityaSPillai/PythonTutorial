@@ -7,7 +7,6 @@ This repository contains Python solutions for the tutorial questions provided by
 - [Tutorial 2](#tutorial-2)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Tutorial 1
 
@@ -102,7 +101,7 @@ This repository contains Python solutions for the tutorial questions provided by
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/PythonTutorial.git
+   git clone https://github.com/AdityaSPillai/PythonTutorial.git
    cd PythonTutorial
    ```
 2. Run any Python script using:
@@ -112,6 +111,3 @@ This repository contains Python solutions for the tutorial questions provided by
 
 ## Contributing
 Pull requests are welcome! If you find any improvements, feel free to submit a PR.
-
-## License
-This project is licensed under the **MIT License**.
