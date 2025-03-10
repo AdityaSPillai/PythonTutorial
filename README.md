@@ -1,5 +1,7 @@
 # PythonTutorial
 
+This is the coding answers for the below tutorial questions provided by Dr. Leena Silvoster M.
+
 TUTORIAL 1
 1. Write a python program to input a time in seconds and print the time in HH:MM:SS format.
 2. Program to find Area and Circumference of a Circle.
@@ -35,6 +37,7 @@ TUTORIAL 1
 26. Write a Python program to find distance between two points (x1,y1) and (x2,y2).
 27. Write a Python program to find the roots of a quadratic equation, ax2+ bx + c =0 .
 28. Write a Python program to display the sum of odd numbers between a programmer specified upper and lower limit.
+
 
 TUTORIAL 2
 1. Write a program to remove all vowel characters from a string.
