@@ -5,6 +5,8 @@ This repository contains Python solutions for the tutorial questions provided by
 ## Table of Contents
 - [Tutorial 1](#tutorial-1)
 - [Tutorial 2](#tutorial-2)
+- [Tutorial 3](#tutorial-3)
+- [Tutorial 5](#tutorial-5)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
@@ -96,6 +98,43 @@ This repository contains Python solutions for the tutorial questions provided by
 28. Write a program to perform **basic set operations**.
 29. Write a program to **remove duplicate elements** from a list.
 30. Write a program to **completely remove duplicates** (no element should appear more than once).
+
+## Tutorial 3
+
+1. Draw a star using turtle methods.
+2. Write a program to draw a pentagon using turtle.
+3. Write a program to draw a circle using turtle.
+4. Write a GUI-based program for temperature conversion between Fahrenheit and Celsius.
+5. Write a program to draw a radial pattern with 10 hexagons.
+6. Write a GUI program to convert an input string to uppercase and display the result.
+7. Write a GUI program to input an integer, compute the square root, and handle errors with a message box.
+8. Write a GUI-based "guess-the-number" game where the user guesses a number between 1 and 100.
+9. Write a GUI-based "guess-the-number" game where the computer guesses a number between 1 and 100.
+10. Write a GUI-based program to compute the total distance traveled by a bouncing ball.
+11. Write a Python program to determine the quadrant of a point (x, y).
+12. Write a GUI program to convert an input string to uppercase.
+13. Write a GUI program to compute and display the square root of an input number.
+14. Write a GUI program that handles input errors while computing the square root of an integer.
+
+## Tutorial 5
+
+1. Add two matrices and find the transpose of the result.
+2. Create a Pandas DataFrame from a list of data and set the index.
+3. Write data to an Excel file.
+4. Read data from an Excel file.
+5. Write a Python program to write given data to a CSV file.
+6. Create a DataFrame from a dictionary of lists.
+7. Perform data analysis on "auto.csv" (cleaning, updates, filtering, sorting, etc.).
+8. Read and display the first five records of a data file.
+9. Perform various operations on a "stud.csv" file (indexing, sorting, statistics, visualization, etc.).
+10. Visualize company sales data using scatter plots, bar charts, and pie charts.
+11. Plot multiple lines on the same graph with legends, labels, and titles.
+12. Analyze employee data from "employee.csv" (sorting, filtering, statistics).
+13. Write student data to a CSV file.
+14. List all items in the current working directory.
+15. Perform matrix operations using NumPy (addition, multiplication, transpose).
+16. Analyze student CGPA data from a CSV file using Pandas.
+17. Perform weather data analysis from "weather.csv" (temperature statistics, filtering, visualization).
 
 ---
 ## How to Use
