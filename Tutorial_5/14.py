@@ -9,7 +9,6 @@ data = {
 }
 
 df = pd.DataFrame(data)
+df.to_csv("StudMarks.csv", index=False)
 
-df.to_csv("student_marks.csv", index=False)
-
-print("Data successfully written to student_marks.csv!")
+print("Data successfully written to StudMarks.csv!")

@@ -1,12 +1,10 @@
 import matplotlib.pyplot as plt
 
-# Sample data
 x = [1, 2, 3, 4, 5]
-y1 = [10, 20, 25, 30, 50]  # Line 1
-y2 = [5, 15, 30, 35, 40]   # Line 2
-y3 = [2, 10, 20, 25, 35]   # Line 3
+y1 = [11, 16, 40, 42, 51]
+y2 = [36, 40, 41, 45, 50]
+y3 = [9, 19, 39, 39, 40]
 
-# Plot multiple lines
 plt.plot(x, y1, marker="o", linestyle="-", color="blue", label="Product A")
 plt.plot(x, y2, marker="s", linestyle="--", color="green", label="Product B")
 plt.plot(x, y3, marker="^", linestyle=":", color="red", label="Product C")

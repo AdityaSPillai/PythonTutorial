@@ -6,7 +6,7 @@ def transpose(mata, matb):
         arr_b = np.array(matb)
         
         if arr_a.shape != arr_b.shape:
-            raise ValueError("dimesnions must be same")
+            raise ValueError("dimensions must be same")
         
         mat_sum = arr_a + arr_b
         
