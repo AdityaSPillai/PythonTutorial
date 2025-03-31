@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import math
 
-def Sqrt_computer():
+def sqrt():
     try:
         num = float(entry_number.get())
         if num < 0:
@@ -25,7 +25,7 @@ label_sqrt.grid(row=1, column=0)
 entry_sqrt = tk.Entry(window)
 entry_sqrt.grid(row=1, column=1)
 
-button_sqrt = tk.Button(window, text="Compute sqrt", command=Sqrt_computer)
+button_sqrt = tk.Button(window, text="Compute sqrt", command=sqrt)
 button_sqrt.grid(row=2, column=0, columnspan=2)
 
 window.mainloop()

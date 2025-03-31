@@ -1,4 +1,4 @@
-def quadrant_finder(x, y):
+def quad(x, y):
     if x > 0 and y > 0:
         return "1st Quadrant"
     elif x < 0 and y > 0:
@@ -16,6 +16,4 @@ def quadrant_finder(x, y):
 
 x = float(input("Enter the  x-coordinate: "))
 y = float(input("Enter the y-coordinate: "))
-print("The point is in:", quadrant_finder(x, y))
-
-
+print("The point is in:", quad(x, y))

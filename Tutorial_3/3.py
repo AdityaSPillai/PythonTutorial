@@ -1,6 +1,6 @@
 import turtle
-def circle(length):
+def circleshape(length):
     turtle.circle(length)
 turtle.speed(1)
-circle(100)
+circleshape(100)
 turtle.done()
