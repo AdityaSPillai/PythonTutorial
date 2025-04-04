@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("weather.csv")
+df = pd.read_csv("./Tutorial_5/weather.csv")
 
 #1
 print("\n1. First 10 Rows of Weather Data:\n", df.head(10))

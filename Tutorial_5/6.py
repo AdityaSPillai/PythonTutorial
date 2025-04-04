@@ -9,6 +9,6 @@ data = [
 columns = ["SN", "Name", "Country", "Contribution", "Year"]
 
 df = pd.DataFrame(data, columns=columns)
-df.to_csv("UniData.csv", index=False)
+df.to_csv("./Tutorial_5/UniData.csv", index=False)
 
 print("Data written to UniData.csv successfully!")

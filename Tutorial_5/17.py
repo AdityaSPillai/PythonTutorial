@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("student.csv")
+df = pd.read_csv("./Tutorial_5/student.csv")
 
 #1
 average_cgpa = df["CGPA"].mean()

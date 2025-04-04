@@ -5,7 +5,7 @@ df = pd.read_csv("auto.csv")
 #1
 df.drop_duplicates(inplace=True)
 df.dropna(inplace=True)
-df.to_csv("cleaned_auto.csv", index=False)
+df.to_csv("./Tutorial_5/cleaned_auto.csv", index=False)
 print("\n1. Cleaned and updated CSV file saved as 'cleaned_auto.csv'.")
 
 #2️

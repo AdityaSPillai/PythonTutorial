@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("employee.csv")
+df = pd.read_csv("./Tutorial_5/employee.csv")
 
 print("\nEmployee Data Preview:")
 print(df.head())

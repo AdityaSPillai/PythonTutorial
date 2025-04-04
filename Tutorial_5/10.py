@@ -10,10 +10,10 @@ data = {
 
 df = pd.DataFrame(data)
 
-df.to_csv("stud.csv", index=False)
+df.to_csv("./Tutorial_5/stud.csv", index=False)
 print("'stud.csv' created successfully!")
 
-df = pd.read_csv("stud.csv")
+df = pd.read_csv("./Tutorial_5/stud.csv")
 
 #a)
 print("File Contents:")
