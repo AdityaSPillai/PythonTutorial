@@ -6,6 +6,7 @@ This repository contains Python solutions for the tutorial questions provided by
 - [Tutorial 1](#tutorial-1)
 - [Tutorial 2](#tutorial-2)
 - [Tutorial 3](#tutorial-3)
+- [Tutorial 4](#tutorial-4)
 - [Tutorial 5](#tutorial-5)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
