@@ -1,4 +1,4 @@
-# Python Tutorial - Solutions Repository
+# Python Tutorial - Solutions
 
 This repository contains Python solutions for the tutorial questions provided by **Dr. Leena Silvoster M.** The solutions are structured according to two tutorial sets.
 
